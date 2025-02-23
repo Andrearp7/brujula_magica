@@ -1186,7 +1186,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
               <int value="2"></int>
               <string role="key" value="exportType"></string>
-              <string value="singlepage"></string>
+              <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Inicio:Ruta%20de%20navegaci%C3%B3n"></string>
               <string role="key" value="parent"></string>
@@ -1639,7 +1639,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exportType"></string>
-                     <string value="singlepage"></string>
+                     <string value="website"></string>
                      <string role="key" value="last_full_node_path"></string>
                      <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%203"></string>
                      <string role="key" value="parent"></string>
@@ -2169,7 +2169,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                        <int value="2"></int>
                        <string role="key" value="exportType"></string>
-                       <string value="singlepage"></string>
+                       <string value="website"></string>
                        <string role="key" value="last_full_node_path"></string>
                        <string value="exe-node:Inicio:Cap%C3%ADtulo%201"></string>
                        <string role="key" value="parent"></string>
@@ -8272,7 +8272,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                                                    <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                    <int value="2"></int>
                                                    <string role="key" value="exportType"></string>
-                                                   <string value="singlepage"></string>
+                                                   <string value="website"></string>
                                                    <string role="key" value="last_full_node_path"></string>
                                                    <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%202:La%20f%C3%B3rmula%20del%20saber"></string>
                                                    <string role="key" value="parent"></string>
@@ -8481,7 +8481,7 @@ text through the text editing buttons associated with the field."></unicode>
                                            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                            <int value="2"></int>
                                            <string role="key" value="exportType"></string>
-                                           <string value="singlepage"></string>
+                                           <string value="website"></string>
                                            <string role="key" value="last_full_node_path"></string>
                                            <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%202"></string>
                                            <string role="key" value="parent"></string>
@@ -8539,7 +8539,7 @@ text through the text editing buttons associated with the field."></unicode>
                                   <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                   <int value="2"></int>
                                   <string role="key" value="exportType"></string>
-                                  <string value="singlepage"></string>
+                                  <string value="website"></string>
                                   <string role="key" value="last_full_node_path"></string>
                                   <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%201:El%20puente%20de%20las%20palabras"></string>
                                   <string role="key" value="parent"></string>
@@ -8784,7 +8784,7 @@ text through the text editing buttons associated with the field."></unicode>
                           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                           <int value="2"></int>
                           <string role="key" value="exportType"></string>
-                          <string value="singlepage"></string>
+                          <string value="website"></string>
                           <string role="key" value="last_full_node_path"></string>
                           <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%201"></string>
                           <string role="key" value="parent"></string>
@@ -12078,7 +12078,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                              <int value="2"></int>
                                                              <string role="key" value="exportType"></string>
-                                                             <string value="singlepage"></string>
+                                                             <string value="website"></string>
                                                              <string role="key" value="last_full_node_path"></string>
                                                              <string value="exe-node:Inicio:Cap%C3%ADtulo%202"></string>
                                                              <string role="key" value="parent"></string>
@@ -17986,7 +17986,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                                                                             <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                                                                             <int value="2"></int>
                                                                                                                                             <string role="key" value="exportType"></string>
-                                                                                                                                            <string value="singlepage"></string>
+                                                                                                                                            <string value="website"></string>
                                                                                                                                             <string role="key" value="last_full_node_path"></string>
                                                                                                                                             <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%2010:%20El%20mapa%20del%20futuro"></string>
                                                                                                                                             <string role="key" value="parent"></string>
@@ -18242,7 +18242,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                                                                    <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                                                                    <int value="2"></int>
                                                                                                                                    <string role="key" value="exportType"></string>
-                                                                                                                                   <string value="singlepage"></string>
+                                                                                                                                   <string value="website"></string>
                                                                                                                                    <string role="key" value="last_full_node_path"></string>
                                                                                                                                    <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%2010"></string>
                                                                                                                                    <string role="key" value="parent"></string>
@@ -18307,7 +18307,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                                                            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                                                            <int value="2"></int>
                                                                                                                            <string role="key" value="exportType"></string>
-                                                                                                                           <string value="singlepage"></string>
+                                                                                                                           <string value="website"></string>
                                                                                                                            <string role="key" value="last_full_node_path"></string>
                                                                                                                            <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%209:%20La%20carrera%20contra%20el%20desinter%C3%A9s"></string>
                                                                                                                            <string role="key" value="parent"></string>
@@ -18563,7 +18563,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                                                   <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                                                   <int value="2"></int>
                                                                                                                   <string role="key" value="exportType"></string>
-                                                                                                                  <string value="singlepage"></string>
+                                                                                                                  <string value="website"></string>
                                                                                                                   <string role="key" value="last_full_node_path"></string>
                                                                                                                   <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%209"></string>
                                                                                                                   <string role="key" value="parent"></string>
@@ -18626,7 +18626,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                                           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                                           <int value="2"></int>
                                                                                                           <string role="key" value="exportType"></string>
-                                                                                                          <string value="singlepage"></string>
+                                                                                                          <string value="website"></string>
                                                                                                           <string role="key" value="last_full_node_path"></string>
                                                                                                           <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%208:%20El%20c%C3%ADrculo%20del%20respeto"></string>
                                                                                                           <string role="key" value="parent"></string>
@@ -18830,7 +18830,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                                  <int value="2"></int>
                                                                                                  <string role="key" value="exportType"></string>
-                                                                                                 <string value="singlepage"></string>
+                                                                                                 <string value="website"></string>
                                                                                                  <string role="key" value="last_full_node_path"></string>
                                                                                                  <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%208"></string>
                                                                                                  <string role="key" value="parent"></string>
@@ -18893,7 +18893,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                          <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                          <int value="2"></int>
                                                                                          <string role="key" value="exportType"></string>
-                                                                                         <string value="singlepage"></string>
+                                                                                         <string value="website"></string>
                                                                                          <string role="key" value="last_full_node_path"></string>
                                                                                          <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%207:El%20campo%20de%20batalla%20matem%C3%A1tico"></string>
                                                                                          <string role="key" value="parent"></string>
@@ -19133,7 +19133,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                                 <int value="2"></int>
                                                                                 <string role="key" value="exportType"></string>
-                                                                                <string value="singlepage"></string>
+                                                                                <string value="website"></string>
                                                                                 <string role="key" value="last_full_node_path"></string>
                                                                                 <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%207"></string>
                                                                                 <string role="key" value="parent"></string>
@@ -19196,7 +19196,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                         <int value="2"></int>
                                                                         <string role="key" value="exportType"></string>
-                                                                        <string value="singlepage"></string>
+                                                                        <string value="website"></string>
                                                                         <string role="key" value="last_full_node_path"></string>
                                                                         <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%206:%20El%20espejo%20de%20la%20autoestima%20"></string>
                                                                         <string role="key" value="parent"></string>
@@ -19441,7 +19441,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                                 <int value="2"></int>
                                                                 <string role="key" value="exportType"></string>
-                                                                <string value="singlepage"></string>
+                                                                <string value="website"></string>
                                                                 <string role="key" value="last_full_node_path"></string>
                                                                 <string value="exe-node:Inicio:Cap%C3%ADtulo%202:Desaf%C3%ADo%206"></string>
                                                                 <string role="key" value="parent"></string>
@@ -19510,7 +19510,7 @@ text through the text editing buttons associated with the field."></unicode>
                                                      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                                      <int value="2"></int>
                                                      <string role="key" value="exportType"></string>
-                                                     <string value="singlepage"></string>
+                                                     <string value="website"></string>
                                                      <string role="key" value="last_full_node_path"></string>
                                                      <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%205:El%20poder%20de%20la%20gamificaci%C3%B3n"></string>
                                                      <string role="key" value="parent"></string>
@@ -19714,7 +19714,7 @@ text through the text editing buttons associated with the field."></unicode>
                                             <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                             <int value="2"></int>
                                             <string role="key" value="exportType"></string>
-                                            <string value="singlepage"></string>
+                                            <string value="website"></string>
                                             <string role="key" value="last_full_node_path"></string>
                                             <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%205"></string>
                                             <string role="key" value="parent"></string>
@@ -19772,7 +19772,7 @@ text through the text editing buttons associated with the field."></unicode>
                                    <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                    <int value="2"></int>
                                    <string role="key" value="exportType"></string>
-                                   <string value="singlepage"></string>
+                                   <string value="website"></string>
                                    <string role="key" value="last_full_node_path"></string>
                                    <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%204:La%20biblioteca%20perdida"></string>
                                    <string role="key" value="parent"></string>
@@ -19981,7 +19981,7 @@ text through the text editing buttons associated with the field."></unicode>
                           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                           <int value="2"></int>
                           <string role="key" value="exportType"></string>
-                          <string value="singlepage"></string>
+                          <string value="website"></string>
                           <string role="key" value="last_full_node_path"></string>
                           <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%204"></string>
                           <string role="key" value="parent"></string>
@@ -20960,7 +20960,7 @@ text through the text editing buttons associated with the field."></unicode>
                                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                                  <int value="2"></int>
                                  <string role="key" value="exportType"></string>
-                                 <string value="singlepage"></string>
+                                 <string value="website"></string>
                                  <string role="key" value="last_full_node_path"></string>
                                  <string value="exe-node:Inicio:Cap%C3%ADtulo%201:Desaf%C3%ADo%203:El%20laberinto%20de%20la%20inclusi%C3%B3n"></string>
                                  <string role="key" value="parent"></string>
@@ -21497,7 +21497,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exportType"></string>
-                 <string value="singlepage"></string>
+                 <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
                  <string value="exe-node:Inicio:Ruta%20de%20navegaci%C3%B3n:Antes%20de%20iniciar"></string>
                  <string role="key" value="parent"></string>
@@ -21707,7 +21707,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exportType"></string>
-                 <string value="singlepage"></string>
+                 <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
                  <string value="exe-node:Inicio:Ruta%20de%20navegaci%C3%B3n:Desaf%C3%ADos%20y%20recompensas"></string>
                  <string role="key" value="parent"></string>
@@ -21763,7 +21763,7 @@ text through the text editing buttons associated with the field."></unicode>
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Inicio"></string>
      <string role="key" value="parent"></string>
@@ -22581,7 +22581,7 @@ reflective feedback)."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Inicio:Cap%C3%ADtulo%203"></string>
         <string role="key" value="parent"></string>
@@ -22936,7 +22936,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Inicio:Recursos%20de%20apoyo"></string>
         <string role="key" value="parent"></string>

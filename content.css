@@ -164,6 +164,6 @@ body {
     height: auto;
 }
 
-#packageLicense.cc-by-sa {
+#packageLicense.cc-by-sa, #bottomPagination {
   display:none;
 }
